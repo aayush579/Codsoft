@@ -65,5 +65,4 @@ To run any of the projects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aayush57/codsoft.git
-   cd codsoft
+  https://github.com/aayush579/Codsoft.git
